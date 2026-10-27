@@ -1,0 +1,6 @@
+{
+  "name": "RoomsForUse",
+  "description": "Full-Stack Hotel Room Booking and Management System featuring customer reservations, room availability checks, test payment workflow, cancellation, and comprehensive admin dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
